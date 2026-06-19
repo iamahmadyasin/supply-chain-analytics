@@ -19,7 +19,7 @@ transactions into actionable inventory and operations insights.
 ## Project structure
 
 ```
-notebooks/          # Jupyter notebooks (sections 2–5)
+notebooks/          # Jupyter notebooks
 sql/                # SQL query scripts
 outputs/            # Charts and visualizations
 reorder_calculator.xlsx     # Excel inventory tool
